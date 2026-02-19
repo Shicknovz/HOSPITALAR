@@ -1,0 +1,3 @@
+" Overlay - Paciente "
+
+//* Plano, acomodação, tipo de internação, CID, Motivo da Alta, RN - APós alta, fazer a contagem de dias. *\\
